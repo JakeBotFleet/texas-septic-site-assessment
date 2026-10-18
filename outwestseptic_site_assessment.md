@@ -37,10 +37,10 @@ Property size, bedroom count or county alone does not establish a design flow or
 
 Repeat rows for each evaluation location or horizon. The responsible professional selects appropriate methods; this template provides no excavation, sampling or test procedure.
 
-| Observation ID | Location / horizon reference | Observed property | Value | Unit | Method / observation limit | Evidence ID | Evaluator / date |
-|---|---|---|---|---|---|---|---|
-| | | | | | | | |
-| | | | | | | | |
+| Observation ID | Location / horizon reference | Observed property | Status | Value | Unit | Method / observation limit | Evidence ID | Evaluator / date |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |
+| | | | | | | | | |
 
 Record the status as observed, reported, not observed to a stated limit, not evaluated, not applicable with reason, or unknown. Separate a measured zero from an unknown value. For depth observations, record the investigation limit and reference surface. Do not turn "not encountered" into a precise depth.
 
